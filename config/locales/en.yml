@@ -16,6 +16,9 @@
 #
 # This would use the information in config/locales/es.yml.
 #
+# en.user_mailer.account_activation.subject
+# en.user_mailer.password_reset.subject
+
 # To learn more, please read the Rails Internationalization guide
 # available at http://guides.rubyonrails.org/i18n.html.
 
